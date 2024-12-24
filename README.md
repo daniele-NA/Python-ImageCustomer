@@ -1,3 +1,7 @@
+## WARNING
+Before using the code, you need to write    pip install Pillow   in PowerShell
+
+
 Python program that allows decorative, resizing and cutting operations on images
 
 
